@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
+outputs/
+# the dataset is not part of the repo
+data/*
+!data/README.md
